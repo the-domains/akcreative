@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[akcreative]]></title>
+        <description><![CDATA[akcreative]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 04 Mar 2016 19:23:32 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Home]]></title>
+            <description><![CDATA[<article><h1>Home</h1><p>What saves a man is to take a step. Then another step. It is always the same step, but you have to take it. Antoine de Saint-Exupéry</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/460964de8aeec27fd801019145c7882e81f17af4.jpg"></article>]]></description>
+            <link>http://www.akcreative.com/#memoryorattention</link>
+            <guid isPermaLink="false">bb04a47b-e5ff-410f-9cf7-60dd929284e7</guid>
+            <pubDate>Fri, 04 Mar 2016 19:23:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
