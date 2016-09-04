@@ -1,29 +1,22 @@
 ---
-inFeed: false
-hasPage: true
-inNav: false
-inLanguage: null
-starred: true
-keywords: []
-description: from Mary Oliver and very small katydids
-datePublished: '2016-02-19T14:44:19.556Z'
-dateModified: '2016-02-19T14:43:29.093Z'
-title: |-
-  “...you can’t do
-  anything at all unless you begin”  -M.Oliver
-author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+datePublished: '2016-09-01T14:09:14.892Z'
 sourcePath: _posts/2016-02-19-you-cant-do-anything-at-all-unless-you-begin-molive.md
-published: true
+inFeed: false
+authors: []
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-09-01T14:09:14.103Z'
+title: “...you can’t do anything at all unless you begin” -M.Oliver
+publisher: {}
+description: ''
+inLanguage: null
+inNav: false
+via: {}
+starred: true
 url: you-cant-do-anything-at-all-unless-you-begin-molive/index.html
 _type: Blurb
 
 ---
-# "...you can't do
-anything at all unless you begin" -M.Oliver
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/03bb31b8-dc89-4887-b687-72a46bcfe39d.gif)
+# "...you can't do anything at all unless you begin" -M.Oliver
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3aa96371800e03277b73cfcd50b88bea3ad6a98b.gif)
