@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[akcreative]]></title>
-        <description><![CDATA[akcreative]]></description>
+        <title><![CDATA[misquotes and erasures]]></title>
+        <description><![CDATA[misquotes and erasures]]></description>
         <link>https://thegrid.ai/akcreative/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 22:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 14:09:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/akcreative/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3da917bf438f79b2594f531148612ed099270fef.jpg" alt="Reticulated Giraffe with oxpeckers and weaver nests,  Samburu, Kenya">]]></description>
+            <link>https://thegrid.ai/akcreative/4fdf7847-d336-4844-825b-d0928a00e81d/index.html</link>
+            <guid isPermaLink="false">4fdf7847-d336-4844-825b-d0928a00e81d</guid>
+            <pubDate>Thu, 01 Sep 2016 14:08:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea439dae-2ccb-497a-809b-0e375d1f6095.jpg">]]></description>
@@ -25,13 +32,6 @@
             <description><![CDATA[<img src="http://static1.squarespace.com/static/564fa070e4b08f0af884773e/565dd693e4b04e2b91148762/565e4ea4e4b04f2eafded6f9/1449021096522/AK__3255.jpg?format=1500w">]]></description>
             <link>https://thegrid.ai/akcreative/2fdf29f2-af30-4021-97f4-46c642a40c80/index.html</link>
             <guid isPermaLink="false">2fdf29f2-af30-4021-97f4-46c642a40c80</guid>
-            <pubDate>Thu, 10 Mar 2016 22:09:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://static1.squarespace.com/static/564fa070e4b08f0af884773e/565dd693e4b04e2b91148762/565dd890e4b019f40c9f39e1/1448990866254/giraffefavcard.jpg?format=1500w">]]></description>
-            <link>https://thegrid.ai/akcreative/4fdf7847-d336-4844-825b-d0928a00e81d/index.html</link>
-            <guid isPermaLink="false">4fdf7847-d336-4844-825b-d0928a00e81d</guid>
             <pubDate>Thu, 10 Mar 2016 22:09:44 GMT</pubDate>
         </item>
         <item>
